@@ -20,5 +20,8 @@
 
 - **Libro "Introduction to the Hurd"**: [Introduction to the Hurd](https://www.gnu.org/software/hurd/documentation/books.html)
 
-- **Correo electronico de ayuda**:
+- **Correo electrónico de ayuda (oficial)**:
 help.hurd@gnu.org
+
+- **Correo electronico de ayuda (no oficial)**:
+hurd@gnu.com
