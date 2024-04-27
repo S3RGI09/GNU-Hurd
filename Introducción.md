@@ -52,5 +52,5 @@ Para empezar, visita el [sitio web oficial de GNU Hurd](https://www.gnu.org/soft
 
 # Futuro de GNU Hurd
 Es dificil predecir con certeza el futuro de Hurd, pero en lo personal creo que Hurd ya no tiene contra quien competir, el proyecto se basa mas en desarrolladores que en su tiempo libre usa GNU Hurd como herramienta de aprendizaje antes que para intentar derrotar a Linux o FreeBSD.
-Y aun asi, Hurd no tiene la comunidad más grande, ya que FreeBSD y Linux tienen a muchos programadores, desde gente de (Debian)[debian.org] hasta empleados del (CERN)[home.cern], por no hablar de las grandes inversiones que reciben, en FreeBSD con Netflix, y Linux con Microsoft o Google.
+Y aun asi, Hurd no tiene la comunidad más grande, ya que FreeBSD y Linux tienen a muchos programadores, desde gente de [Debian](debian.org) hasta empleados del [CERN](home.cern), por no hablar de las grandes inversiones que reciben, en FreeBSD con Netflix, y Linux con Microsoft o Google.
 
