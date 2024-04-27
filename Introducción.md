@@ -1,4 +1,4 @@
-(GNU Hurd)[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hurd-logo.svg/140px-Hurd-logo.svg.png]
+![GNU Hurd Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hurd-logo.svg/140px-Hurd-logo.svg.png)
 # GNU Hurd: Un Kernel de Sistema Operativo Libre y Modular
 
 GNU Hurd es un kernel de sistema operativo de código abierto que forma parte del Proyecto GNU, una iniciativa fundada por Richard Stallman con el objetivo de desarrollar un sistema operativo completamente libre y basado en Unix. A diferencia de los sistemas operativos más conocidos, como Linux o macOS, que utilizan un kernel monolítico, GNU Hurd está diseñado como un microkernel modular.
