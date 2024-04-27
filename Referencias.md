@@ -19,3 +19,6 @@
 - **Información sobre el Proyecto GNU**: [Página principal del Proyecto GNU](https://www.gnu.org/)
 
 - **Libro "Introduction to the Hurd"**: [Introduction to the Hurd](https://www.gnu.org/software/hurd/documentation/books.html)
+
+- **Correo electronico de ayuda**:
+help.hurd@gnu.org
