@@ -1,3 +1,4 @@
+![GNU Hurd Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hurd-logo.svg/140px-Hurd-logo.svg.png)
 # Repositorio de GNU Hurd
 
 Este repositorio contiene recursos y documentación relacionados con GNU Hurd.
